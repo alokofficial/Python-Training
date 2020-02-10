@@ -11,10 +11,10 @@ if'@'in email:
         if password=="12345":
             print("welcome")
         else:
-            print("rhne de tere se na ho payega")
+            print("limit cross")
     else:
         print("incorrect credential")
 
 
 else:
-    print("gawaar")
+    print("try again later")
